@@ -21,4 +21,4 @@ function cuadrado(numero){
 
     return dibujo;
 }
-console.log(cuadrado(6));   
+console.log(cuadrado(4));   
